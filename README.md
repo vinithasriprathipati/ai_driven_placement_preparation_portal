@@ -6,7 +6,7 @@ A modern and intelligent **AI-driven placement preparation platform** built usin
 
 ## 🎬 Live Demo  
 
-📽️ Demo link will be added here  
+📽️ [Demo Link](https://github.com/vinithasriprathipati/ai_driven_placement_preparation_portal/blob/90ecb94b3f28767eb021b7e1f90d7d96786de71e/Placement%20Preparation%20Portal.mp4) 
 
 *Showcasing AI-powered features like mock interviews, communication practice, and job matching.*  
 
