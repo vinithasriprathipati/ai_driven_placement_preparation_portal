@@ -11,6 +11,15 @@ A modern and intelligent **AI-driven placement preparation platform** built usin
 *Showcasing AI-powered features like mock interviews, communication practice, and job matching.*  
 
 ---
+---
+
+## 📄 Project Documentation  
+
+📑 [View Project Presentation](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/PlacementPrep_AI_Presentation.pdf)  
+
+*Includes complete project overview, architecture, features, and implementation details.*  
+
+---
 
 ## 💡 Key Highlights  
 
