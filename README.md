@@ -15,7 +15,7 @@ A modern and intelligent **AI-driven placement preparation platform** built usin
 
 ## 📄 Project Documentation  
 
-📑 [View Project Presentation](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/PlacementPrep_AI_Presentation.pdf)  
+📑 [View Project Presentation]()  
 
 *Includes complete project overview, architecture, features, and implementation details.*  
 
