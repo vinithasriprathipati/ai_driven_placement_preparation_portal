@@ -15,7 +15,7 @@ A modern and intelligent **AI-driven placement preparation platform** built usin
 
 ## 📄 Project Documentation  
 
-📑 [View Project Presentation]()  
+📑 [View Project Presentation](https://github.com/vinithasriprathipati/ai_driven_placement_preparation_portal/blob/fbd035d7968fdf73fcae3be560093f284e620c06/Project%20Presentation.pdf)  
 
 *Includes complete project overview, architecture, features, and implementation details.*  
 
